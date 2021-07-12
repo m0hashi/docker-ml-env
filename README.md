@@ -1,6 +1,10 @@
 # Docker image for Machine Learning on GPU Machine
 This image is based on kaggle/python-image
 
+## Prerquisite environment
+- docker-compose
+- nvidia-docker2
+
 ## Build 
 ```
 ./build
